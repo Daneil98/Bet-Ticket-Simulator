@@ -1,0 +1,7 @@
+ALGORITHM FOR BET TICKET SIMULATOR
+
+1. Get the total number of desired matches from the user (N).
+2. Get the total number of possible event outcomes for each match (n).
+3. Get the type of bet the user wants (bets).
+4. calculate the total number of possible game ticket combinations using the combination function (N**n)
+5. Arrange and Display the several matches with the corresponding iteration of the selected user bet.
