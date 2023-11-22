@@ -1,8 +1,8 @@
 ALGORITHM FOR BET TICKET SIMULATOR
 
-Inputs: total number of desired matches from the user (N), the total number of possible event outcomes for each match (n), the type of bet the user wants (bets).
-Outputs: the several matches with the corresponding iteration of the selected user bet.
+Inputs: Total number of desired matches from the user (N), the total number of possible event outcomes for each match (n), the type of bet the user wants (bets).
+Outputs: The several matches with the corresponding iteration of the selected user bet.
 
-calculate the total number of possible game ticket combinations using the combination function (N**n).
+Calculate the total number of possible game ticket combinations using the combination function (N**n).
 Display the several bet combinations under each bet type with the bet function.
 Read the exact matches from the CSV file and then divide the teams into home and away teams, then arrange and display the several matches with the corresponding iteration of the selected user bet.
